@@ -15,6 +15,14 @@
 		1825A1DC1E265F61002B31F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1825A1DA1E265F61002B31F2 /* LaunchScreen.storyboard */; };
 		1825A1E71E265F61002B31F2 /* LFY_UITablViewBublleViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1825A1E61E265F61002B31F2 /* LFY_UITablViewBublleViewTests.m */; };
 		1825A1F21E265F61002B31F2 /* LFY_UITablViewBublleViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1825A1F11E265F61002B31F2 /* LFY_UITablViewBublleViewUITests.m */; };
+		1846ECDD1E26636A00A120C5 /* BBBButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1846ECDC1E26636A00A120C5 /* BBBButton.m */; };
+		1846ECE01E26652500A120C5 /* 发布-朋友圈-未点击.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECDE1E26652500A120C5 /* 发布-朋友圈-未点击.png */; };
+		1846ECE11E26652500A120C5 /* 发布-朋友圈.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECDF1E26652500A120C5 /* 发布-朋友圈.png */; };
+		1846ECE41E26654E00A120C5 /* ShareTipsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1846ECE31E26654E00A120C5 /* ShareTipsView.m */; };
+		1846ECE71E26657200A120C5 /* 发帖-分享到朋友圈.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECE51E26657200A120C5 /* 发帖-分享到朋友圈.png */; };
+		1846ECE81E26657200A120C5 /* 发帖-分享到QQ空间.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */; };
+		1846ECEB1E26658300A120C5 /* 发布-空间-未点击.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECE91E26658300A120C5 /* 发布-空间-未点击.png */; };
+		1846ECEC1E26658300A120C5 /* 发布-空间.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECEA1E26658300A120C5 /* 发布-空间.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,16 @@
 		1825A1ED1E265F61002B31F2 /* LFY_UITablViewBublleViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LFY_UITablViewBublleViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1825A1F11E265F61002B31F2 /* LFY_UITablViewBublleViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LFY_UITablViewBublleViewUITests.m; sourceTree = "<group>"; };
 		1825A1F31E265F61002B31F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1846ECDB1E26636A00A120C5 /* BBBButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBBButton.h; sourceTree = "<group>"; };
+		1846ECDC1E26636A00A120C5 /* BBBButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBBButton.m; sourceTree = "<group>"; };
+		1846ECDE1E26652500A120C5 /* 发布-朋友圈-未点击.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-朋友圈-未点击.png"; sourceTree = "<group>"; };
+		1846ECDF1E26652500A120C5 /* 发布-朋友圈.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-朋友圈.png"; sourceTree = "<group>"; };
+		1846ECE21E26654E00A120C5 /* ShareTipsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShareTipsView.h; sourceTree = "<group>"; };
+		1846ECE31E26654E00A120C5 /* ShareTipsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShareTipsView.m; sourceTree = "<group>"; };
+		1846ECE51E26657200A120C5 /* 发帖-分享到朋友圈.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发帖-分享到朋友圈.png"; sourceTree = "<group>"; };
+		1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发帖-分享到QQ空间.png"; sourceTree = "<group>"; };
+		1846ECE91E26658300A120C5 /* 发布-空间-未点击.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-空间-未点击.png"; sourceTree = "<group>"; };
+		1846ECEA1E26658300A120C5 /* 发布-空间.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-空间.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,8 +123,18 @@
 				1825A1D01E265F61002B31F2 /* AppDelegate.m */,
 				1825A1D21E265F61002B31F2 /* ViewController.h */,
 				1825A1D31E265F61002B31F2 /* ViewController.m */,
+				1846ECE21E26654E00A120C5 /* ShareTipsView.h */,
+				1846ECE31E26654E00A120C5 /* ShareTipsView.m */,
+				1846ECDB1E26636A00A120C5 /* BBBButton.h */,
+				1846ECDC1E26636A00A120C5 /* BBBButton.m */,
 				1825A1D51E265F61002B31F2 /* Main.storyboard */,
 				1825A1D81E265F61002B31F2 /* Assets.xcassets */,
+				1846ECDE1E26652500A120C5 /* 发布-朋友圈-未点击.png */,
+				1846ECDF1E26652500A120C5 /* 发布-朋友圈.png */,
+				1846ECE91E26658300A120C5 /* 发布-空间-未点击.png */,
+				1846ECEA1E26658300A120C5 /* 发布-空间.png */,
+				1846ECE51E26657200A120C5 /* 发帖-分享到朋友圈.png */,
+				1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */,
 				1825A1DA1E265F61002B31F2 /* LaunchScreen.storyboard */,
 				1825A1DD1E265F61002B31F2 /* Info.plist */,
 				1825A1CC1E265F61002B31F2 /* Supporting Files */,
@@ -207,6 +235,7 @@
 				TargetAttributes = {
 					1825A1C81E265F61002B31F2 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 9N6P88TN8F;
 						ProvisioningStyle = Automatic;
 					};
 					1825A1E11E265F61002B31F2 = {
@@ -246,9 +275,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1846ECE11E26652500A120C5 /* 发布-朋友圈.png in Resources */,
+				1846ECE71E26657200A120C5 /* 发帖-分享到朋友圈.png in Resources */,
+				1846ECEB1E26658300A120C5 /* 发布-空间-未点击.png in Resources */,
 				1825A1DC1E265F61002B31F2 /* LaunchScreen.storyboard in Resources */,
 				1825A1D91E265F61002B31F2 /* Assets.xcassets in Resources */,
 				1825A1D71E265F61002B31F2 /* Main.storyboard in Resources */,
+				1846ECE01E26652500A120C5 /* 发布-朋友圈-未点击.png in Resources */,
+				1846ECE81E26657200A120C5 /* 发帖-分享到QQ空间.png in Resources */,
+				1846ECEC1E26658300A120C5 /* 发布-空间.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +308,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1846ECDD1E26636A00A120C5 /* BBBButton.m in Sources */,
+				1846ECE41E26654E00A120C5 /* ShareTipsView.m in Sources */,
 				1825A1D41E265F61002B31F2 /* ViewController.m in Sources */,
 				1825A1D11E265F61002B31F2 /* AppDelegate.m in Sources */,
 				1825A1CE1E265F61002B31F2 /* main.m in Sources */,
@@ -422,6 +459,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9N6P88TN8F;
 				INFOPLIST_FILE = LFY_UITablViewBublleView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cooper.dtag.LFY-UITablViewBublleView";
@@ -433,6 +471,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9N6P88TN8F;
 				INFOPLIST_FILE = LFY_UITablViewBublleView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cooper.dtag.LFY-UITablViewBublleView";
@@ -505,6 +544,7 @@
 				1825A1F81E265F61002B31F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1825A1F91E265F61002B31F2 /* Build configuration list for PBXNativeTarget "LFY_UITablViewBublleViewTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +553,7 @@
 				1825A1FB1E265F61002B31F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1825A1FC1E265F61002B31F2 /* Build configuration list for PBXNativeTarget "LFY_UITablViewBublleViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +562,7 @@
 				1825A1FE1E265F61002B31F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
