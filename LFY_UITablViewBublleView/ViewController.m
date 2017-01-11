@@ -49,10 +49,10 @@
 - (void)shareBtnPressed:(BBBButton *)sender{
    
     UITableViewCell *cell = [_tableView cellForRowAtIndexPath:sender.indexPath];
-    
     BBBButton *btn = [cell.contentView viewWithTag:104];
     btn.selected = !btn.selected;
     CGRect rect = [cell.contentView convertRect:btn.frame toView:self.view];
+    
     CGFloat x = rect.origin.x+rect.size.width-202./2 +5;
     ShareTipsView *tipsView = [[ShareTipsView alloc]initWithFrame:CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height)];
     [tipsView configViweWithFrame:CGRectMake(x, rect.origin.y-62./2, 202./2, 62./2) shareBubbleType:ShareBubbleTypeQQ];
