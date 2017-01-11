@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LFY_UITablViewBublleView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1825A1C81E265F61002B31F2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1825A1E11E265F61002B31F2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1825A1EC1E265F61002B31F2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
