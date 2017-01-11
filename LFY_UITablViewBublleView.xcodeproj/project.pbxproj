@@ -23,6 +23,7 @@
 		1846ECE81E26657200A120C5 /* 发帖-分享到QQ空间.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */; };
 		1846ECEB1E26658300A120C5 /* 发布-空间-未点击.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECE91E26658300A120C5 /* 发布-空间-未点击.png */; };
 		1846ECEC1E26658300A120C5 /* 发布-空间.png in Resources */ = {isa = PBXBuildFile; fileRef = 1846ECEA1E26658300A120C5 /* 发布-空间.png */; };
+		18A627061E2673E1000B77D4 /* UItableView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18A627051E2673E1000B77D4 /* UItableView.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发帖-分享到QQ空间.png"; sourceTree = "<group>"; };
 		1846ECE91E26658300A120C5 /* 发布-空间-未点击.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-空间-未点击.png"; sourceTree = "<group>"; };
 		1846ECEA1E26658300A120C5 /* 发布-空间.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布-空间.png"; sourceTree = "<group>"; };
+		18A627051E2673E1000B77D4 /* UItableView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = UItableView.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				1846ECEA1E26658300A120C5 /* 发布-空间.png */,
 				1846ECE51E26657200A120C5 /* 发帖-分享到朋友圈.png */,
 				1846ECE61E26657200A120C5 /* 发帖-分享到QQ空间.png */,
+				18A627051E2673E1000B77D4 /* UItableView.gif */,
 				1825A1DA1E265F61002B31F2 /* LaunchScreen.storyboard */,
 				1825A1DD1E265F61002B31F2 /* Info.plist */,
 				1825A1CC1E265F61002B31F2 /* Supporting Files */,
@@ -283,6 +286,7 @@
 				1825A1D71E265F61002B31F2 /* Main.storyboard in Resources */,
 				1846ECE01E26652500A120C5 /* 发布-朋友圈-未点击.png in Resources */,
 				1846ECE81E26657200A120C5 /* 发帖-分享到QQ空间.png in Resources */,
+				18A627061E2673E1000B77D4 /* UItableView.gif in Resources */,
 				1846ECEC1E26658300A120C5 /* 发布-空间.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
